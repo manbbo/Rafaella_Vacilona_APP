@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rafaella_Vacilona.Android", "Rafaella_Vacilona\Rafaella_Vacilona.Android\Rafaella_Vacilona.Android.csproj", "{1F0504FC-37FF-4105-A4BF-EF305FDCA0A5}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Rafaella_Vacilona", "Rafaella_Vacilona\Rafaella_Vacilona\Rafaella_Vacilona.shproj", "{6FEE3234-509A-4222-9B12-F57E27D6B6F8}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Rafaella_Vacilona\Rafaella_Vacilona\Rafaella_Vacilona.projitems*{1f0504fc-37ff-4105-a4bf-ef305fdca0a5}*SharedItemsImports = 4
+		Rafaella_Vacilona\Rafaella_Vacilona\Rafaella_Vacilona.projitems*{6fee3234-509a-4222-9b12-f57e27d6b6f8}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0504FC-37FF-4105-A4BF-EF305FDCA0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0504FC-37FF-4105-A4BF-EF305FDCA0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0504FC-37FF-4105-A4BF-EF305FDCA0A5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1F0504FC-37FF-4105-A4BF-EF305FDCA0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0504FC-37FF-4105-A4BF-EF305FDCA0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0504FC-37FF-4105-A4BF-EF305FDCA0A5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC60809-B764-422C-9D23-BAE774AA4B6F}
+	EndGlobalSection
+EndGlobal

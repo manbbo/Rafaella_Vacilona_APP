@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="012391" package="com.manbboco.Rafaella_Vacilona" android:installLocation="auto" android:versionName="3.3">
+	<uses-sdk android:minSdkVersion="18" android:targetSdkVersion="26" />
+	<application android:label="Rafaella_Vacilona.Android" android:icon="@drawable/icon"></application>
+</manifest>
